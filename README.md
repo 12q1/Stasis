@@ -13,9 +13,9 @@ Code is provided under a do-whatever-you-want license, feel free to fork, modify
 
 ---
 
-If you want to modify the setup for your own use you can modify the JSON stored directly in the index.html file. Just make sure it's a valid JSON structure. At this time the setup does not support nested objects, in other words it only supports a single flat layer of key-value pairs. 
+If you want to modify the setup for your own use you can edit the JSON stored directly in the index.html file. **Just make sure it's a valid JSON structure**. At this time the setup does not support nested objects, in other words it only supports a single flat layer of key-value pairs. 
 
-It is stored directly in the html file instead of a separate JSON file because trying to fetch a local JSON file will throw a CORS policy violation unless the setup is hosted on a webserver which I wanted to avoid.
+It is stored directly in the html file instead of a separate JSON file because trying to fetch a local file will throw a CORS policy violation unless the setup is hosted on a webserver which I wanted to avoid.
 
 ![image](https://github.com/12q1/Stasis/assets/42697100/79bec95e-8520-48a5-9200-3536c234c0f2)
 
