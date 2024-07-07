@@ -9,7 +9,7 @@ The tree-like structure is shamelessly ripped from [dylancwood's tree.css magic]
 
 Code is provided under a do-whatever-you-want license, feel free to fork, modify, tweak. If you have suggestions or want to submit a pull request just reach out.
 
-![image](https://github.com/12q1/Stasis/assets/42697100/7b6cea95-ad66-4d19-8aee-b6533329f8ff)
+![image](https://github.com/12q1/Stasis/assets/42697100/58908135-f78b-4239-9823-4a7126d15dc9)
 
 ---
 
